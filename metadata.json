@@ -1,0 +1,6 @@
+{
+  "name": "TG re Launcher",
+  "description": "Lanzador y configurador de emulador para Tokyo Ghoul:re Call to Exist con gestión de drivers gráficos Turnip/DXVK, mapeo de controles táctiles adaptados para combate Kagune/Quinque y ejecución optimizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
